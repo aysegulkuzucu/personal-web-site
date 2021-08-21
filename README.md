@@ -1,2 +1,3 @@
-# personal Web site
+# personal web site
  
+ html, css, js
